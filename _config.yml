@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Anish Dhir"
-  avatar           : "images/avatar.jpeg"
+  avatar           : "avatar.jpeg"
   bio              : "PhD researcher supervised by Dr. Mark van der Wilk."
   location         : "Imperial College London"
   employer         :
