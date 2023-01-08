@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Causal Discovery using Marginal Likelihood"
 collection: publications
 permalink: /publication/causal_discovery_using_marginal_likelihood
 excerpt: 'In this paper we show that Bayesian model selection, with Gaussian process models, are effective at identifying causal direction.'
