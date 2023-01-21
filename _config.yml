@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anish Dhir"
 title_separator          : "-"
 name                     : &name "Anish Dhir"
-description              : &description "PhD Researcher in Machine Learning at Imperial College London supervised."
+description              : &description "PhD Researcher in Machine Learning at Imperial College London."
 url                      : https://anish144.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anish144/anish144.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anish Dhir"
   avatar           : "avatar.jpeg"
-  bio              : "PhD researcher supervised by Dr. Mark van der Wilk."
+  bio              : "PhD researcher in Machine Learning."
   location         : "Imperial College London"
   employer         :
   pubmed           :
