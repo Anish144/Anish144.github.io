@@ -8,5 +8,3 @@ venue: 'AAAI'
 paperurl: 'http://Anish144.github.io/files/overlapping.pdf'
 citation:
 ---
-
-[Download paper here](http://Anish144.github.io/files/overlapping.pdf)

@@ -8,5 +8,3 @@ venue: 'Preprint'
 paperurl: 'http://Anish144.github.io/files/generalisation_bound.pdf'
 citation:
 ---
-
-[Download paper here](http://Anish144.github.io/files/generalisation_bound.pdf)

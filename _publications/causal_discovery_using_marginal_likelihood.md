@@ -8,5 +8,3 @@ venue: 'NeurIPS 2022 Workshop on Causality for Real-world Impact'
 paperurl: 'http://Anish144.github.io/files/Causal_Discovery_using_Marginal_Likelihood.pdf'
 citation:
 ---
-
-[Download paper here](http://Anish144.github.io/files/Causal_Discovery_using_Marginal_Likelihood.pdf)
