@@ -18,5 +18,5 @@ A non-exhaustive list of topics I am interested in:
 - Model selection: Bayesian model selection, MDL
 - Bayesian methods: Bayesian deep learning, Gaussian processes, probabilistic models, inference methods
 - Deep learning: Local learning rules, generalisation
-- Information theory: Kolmogorov complexity, informatio bottleneck
+- Information theory: Kolmogorov complexity, information bottleneck
 
