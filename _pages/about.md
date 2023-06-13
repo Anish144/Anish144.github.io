@@ -14,7 +14,7 @@ Research
 ======
 I am generally interested in researching how to build robust systems that can generalise beyond the training data.
 A non-exhaustive list of topics I am interested in:
-- Causality: causal discovery, effect estimation
+- Causality: causal discovery, effect estimation, representation learning
 - Model selection: Bayesian model selection, MDL
 - Bayesian methods: Bayesian deep learning, Gaussian processes, probabilistic models, inference methods
 - Deep learning: Local learning rules, generalisation
