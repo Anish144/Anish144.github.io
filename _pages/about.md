@@ -11,6 +11,7 @@ redirect_from:
 I am a PhD researcher in Machine Learning at Imperial College London supervised by [Mark van der Wilk](https://mvdw.uk/).
 I am also a visiting student at the University of Oxford.
 Previously, I worked as a research scientist at Babylon Health.
+Interned at Amazon Research.
 
 Research
 ======
@@ -34,4 +35,5 @@ A non-exhaustive list of topics I am interested in:
 
 News
 ======
+- Jan 2025: "A Meta-Learning Approach to Bayesian Causal Discovery" accepted at ICLR 2025.
 - May - Nov 2024: Completed an internship at Amazon AGI Foundations working on scaling neural network architectures while preserving feature learning.
