@@ -35,5 +35,6 @@ A non-exhaustive list of topics I am interested in:
 
 News
 ======
+- May 2025: "Continuous Bayesian Model Selection for Multivariate Causal Discovery accepted at ICML 2025.
 - Jan 2025: "A Meta-Learning Approach to Bayesian Causal Discovery" accepted at ICLR 2025.
 - May - Nov 2024: Completed an internship at Amazon AGI Foundations working on scaling neural network architectures while preserving feature learning.
