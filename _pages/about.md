@@ -34,5 +34,6 @@ A non-exhaustive list of topics I am interested in:
 News
 ======
 - May 2025: "Continuous Bayesian Model Selection for Multivariate Causal Discovery accepted at ICML 2025. We show that in the multivariate setting Bayesian model selection outperforms other methods in observational causal discovery tasks.
+- March 2025: Won the [G-Research Early Career Researcher Grant](https://www.gresearch.com/news/g-research-march-2025-grant-winners/).
 - Jan 2025: "A Meta-Learning Approach to Bayesian Causal Discovery" accepted at ICLR 2025. We propose a neural process that enables a foundation model like approach for causal discovery, trained entirely on synthetic data.
 - May - Nov 2024: Completed an internship at Amazon AGI Foundations working on scaling neural network architectures while preserving feature learning.
