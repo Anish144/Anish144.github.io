@@ -12,6 +12,7 @@ I am a PhD researcher in Machine Learning at Imperial College London supervised 
 I am also a visiting student at the University of Oxford.
 Previously, I worked as a research scientist at Babylon Health and was an intern at Amazon AGI Foundations.
 
+
 Research
 ======
 I study how machine learning systems can learn inductive biases for predicting well under varying conditions, a useful property for scientific discovery.
