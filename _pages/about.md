@@ -10,13 +10,13 @@ redirect_from:
 
 I am a PhD researcher in Machine Learning at Imperial College London supervised by [Mark van der Wilk](https://mvdw.uk/).
 I am also a visiting student at the University of Oxford.
-Previously, I worked as a research scientist at Babylon Health and was an intern at Amazon AGI Foundations.
+Previously, I worked as a research scientist at Babylon Health and was an intern at Amazon AGI Foundations under [Leena C Vankadara](https://leenacvankadara.com/).
 
 
 Research
 ======
-I study how machine learning systems can learn inductive biases for predicting well under varying conditions, a useful property for scientific discovery.
-My work centers on learning causal properties from data and leveraging Bayesian principles (Occam’s razor, calibrated uncertainty) for scalable, data-driven causal modelling.
+I study how machine learning systems can learn inductive biases for predicting well under varying conditions, a useful property for scientific discovery, and building robust, safe systems.
+My work centers on learning causal properties from data and leveraging Bayesian principles (Occam’s razor, uncertainty) for scalable, data-driven causal modelling.
 I also explore how insights from deep-learning theory (scaling theory), diffusion and flow-matching methods, meta-learnt foundation models, can amplify these ideas in complex, real-world settings.
 
 I am keen to collaborate on these ideas and in applying these ideas to impactful problems.
@@ -33,6 +33,7 @@ A non-exhaustive list of topics I am interested in:
 
 News
 ======
+- Sep 2025: The full version of "Estimating Interventional Distributions with Uncertain Causal Graphs through Meta-Learning" accepted at NeurIPS 2025.
 - July 2025: "Estimating Interventional Distributions with Uncertain Causal Graphs through Meta-Learning" accepted at the Scaling Up Intervention Models workshop at ICML 2025. We show that meta-learning enables accurate learning of interventional distributions directly from data, taking model uncertainty (causal structure and mechanism) into account.
 - May 2025: "Continuous Bayesian Model Selection for Multivariate Causal Discovery accepted at ICML 2025. We show that in the multivariate setting Bayesian model selection outperforms other methods in observational causal discovery tasks.
 - March 2025: Won the [G-Research Early Career Researcher Grant](https://www.gresearch.com/news/g-research-march-2025-grant-winners/).
