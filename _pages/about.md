@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher in Machine Learning at Imperial College London supervised by [Mark van der Wilk](https://mvdw.uk/).
-I am also a visiting student at the University of Oxford.
+I am a Research Fellow in Machine Learning in the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/life-sciences/gatsby) at UCL, working with [Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/) and [Jason Hartford](https://jhartford.github.io/).
+I did my PhD in Machine Learning at Imperial College London supervised by [Mark van der Wilk](https://mvdw.uk/), where I was also a visiting researcher at the University of Oxford.
 Previously, I worked as a research scientist at Babylon Health and was an intern at Amazon AGI Foundations under [Leena C Vankadara](https://leenacvankadara.com/).
 
 
